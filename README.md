@@ -34,7 +34,7 @@ A fully responsive **Netflix Clone** application built using modern technologies
 
 ## 📬 Contact
 
-- GitHub: [yourusername](https://github.com/yourusername)
+- GitHub: https://tinyurl.com/4ntwmkkd
 
 ---
 
